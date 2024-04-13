@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Weatherapp</title>
+    </head>
+    <body>
+        <h1>Weather Munich</h1>
+        <p>Datum Temperatur
+        </p>
+    </body>
+</html>
